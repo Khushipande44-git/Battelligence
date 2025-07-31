@@ -1,6 +1,6 @@
-# 🔋 Voltura – Smart Battery Management Dashboard
+# 🔋 Battelligence – Smart Battery Management Dashboard
 
-Voltura is a real-time, interactive, and customizable **Battery Management System (BMS)** dashboard built with **Streamlit** and **Plotly**. It allows users to monitor, analyze, and control multiple battery cells with support for various chemistries like LFP, NMC, LTO, and LCO.
+Battelligence is a real-time, interactive, and customizable **Battery Management System (BMS)** dashboard built with **Streamlit** and **Plotly**. It allows users to monitor, analyze, and control multiple battery cells with support for various chemistries like LFP, NMC, LTO, and LCO.
 
 ---
 
